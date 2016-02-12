@@ -6,7 +6,7 @@ body {
 
 .logo {
 	width:200px;
-  height:125px
+  height:189px
 	border-style: none;
 	float: left;
 	margin-right: 5px;
@@ -20,13 +20,13 @@ h1 {
 }
 
 #main {
-	background-color: #66CCFF
+	background-color: #66ccff
 	width: 500px;
 	float: left;
 }
 
 #sidebar {
-	background-color:6699FF
+	background-color:6699ff
 	width: 200px;
 	float: right;
 	border-left: 2px solid #ccc;
@@ -35,7 +35,7 @@ h1 {
 
 #footer {
 	clear: both;
-	background-color: #6699CC;
+	background-color: #6699cc;
 }
 
 #footer p {
@@ -75,5 +75,5 @@ h1 {
 }
 
 #nav a:hover, #nav a:active {
-	background-color: #3300FF;
+	background-color: #3300ff;
 }
