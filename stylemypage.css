@@ -28,8 +28,7 @@ h1 {
 #sidebar {
 	width: 200px;
   float: right;
-	valign: top;
-	border-left: 2px solid #ccc;
+	border-left: 2px solid #000000;
 	padding-left: 15px;
 }
 
