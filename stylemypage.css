@@ -1,0 +1,79 @@
+/*Styles go here*/
+
+body {
+	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.logo {
+	width:200px;
+  height:125px
+	border-style: none;
+	float: left;
+	margin-right: 5px;
+}
+
+h1 {
+	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	padding-top: 25px;
+	float: center;
+}
+
+#main {
+	background-color: #66CCFF
+	width: 500px;
+	float: left;
+}
+
+#sidebar {
+	background-color:6699FF
+	width: 200px;
+	float: right;
+	border-left: 2px solid #ccc;
+	padding-left: 15px;
+}
+
+#footer {
+	clear: both;
+	background-color: #6699CC;
+}
+
+#footer p {
+	padding: 10px;
+	color: #000000;
+}
+
+#footer p a:link {
+	font-weight: bold;
+	color: #000000;
+}
+
+#container {
+	width: 750px;
+	margin: 0 auto;
+}
+
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav li {
+	float: left;
+}
+
+#nav a:link, #nav a:visited {
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	padding: 4px 0px;
+	color: #fff;
+	background-color: #330099;
+	display: block;
+	width: 125px;
+}
+
+#nav a:hover, #nav a:active {
+	background-color: #3300FF;
+}
