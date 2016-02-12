@@ -28,6 +28,7 @@ h1 {
 #sidebar {
 	background-color:#6699ff;
 	width: 200px;
+	valign: top
 	float: right;
 	border-left: 2px solid #ccc;
 	padding-left: 15px;
