@@ -2,7 +2,7 @@
 
 body {
 	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
-	background-color: #ffcccc;
+	background-color: #CCCCFF
 }
 
 .logo {
@@ -21,13 +21,12 @@ h1 {
 }
 
 #main {
-	background-color: #66ccff;
 	width: 500px;
 	float: left;
 }
 
 #sidebar {
-	background-color:6699ff;
+	background-color:#6699ff;
 	width: 200px;
 	float: right;
 	border-left: 2px solid #ccc;
