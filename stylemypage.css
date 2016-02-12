@@ -6,8 +6,8 @@ body {
 }
 
 .logo {
-	width:200px;
-  height:189px;
+	width:100px;
+  height:95px;
 	border-style: none;
 	float: left;
 	margin-right: 5px;
@@ -70,7 +70,7 @@ h1 {
 	color: #fff;
 	background-color: #330099;
 	display: block;
-	width: 125px;
+	width: 120px;
 }
 
 #nav a:hover, #nav a:active {
