@@ -1,7 +1,8 @@
 /*Styles go here*/
 
 body {
-	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-family: Times, Helvetica, Arial, serif;
+	font-style: italic
 	background-color: #CCCCFF
 }
 
@@ -14,7 +15,8 @@ body {
 }
 
 h1 {
-	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-family: Times, Helvetica, Arial, serif;
+	font-style: italic
 	font-size: 25px;
 	padding-top: 25px;
 	float: center;
@@ -24,6 +26,12 @@ h1 {
 	width: 500px;
 	float: left;
 }
+
+.photo
+	{
+		border:0;
+	}
+
 
 #sidebar {
 	width: 200px;
